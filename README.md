@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm Preeti Mittal</h1>
+<!-- <h1 align="center">Hi 👋, I'm Preeti Mittal</h1>
 
 <h3 align="center">
 Software Engineering Student | AI Enthusiast | Full Stack Developer | Open Source Learner
-</h3>
+</h3> -->
 
-<!-- <p align="center"> -->
-  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+Engineer+in+Progress;Building+AI+Agents;FastAPI+%7C+React+%7C+Java+%7C+Python;Always+Learning+Something+New+🚀" /> -->
-  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+Engineer+in+Progress;Building+AI+Agents;FastAPI+%7C+React+%7C+Java+%7C+Python;Always+Learning+Something+New+🚀" /> -->
-<!-- </p> -->
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;AI+Engineer+in+Progress;Building+AI+Agents;FastAPI+%7C+React+%7C+Java+%7C+Python;Always+Learning+Something+New+🚀" />
 </p>
 
@@ -207,4 +202,10 @@ A MERN Stack based department management platform.
 
 *"Code. Learn. Build. Repeat."* 🚀
 
-</p>
+
+New
+
+
+
+
+</p> -->
