@@ -15,6 +15,14 @@ Software Engineering Student | AI Enthusiast | Full Stack Developer | Open Sourc
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?..." />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Preeti2608&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+</p>
+
 ## 👩‍💻 About Me
 
 🎓 Third Year B.Tech Software Engineering Student
