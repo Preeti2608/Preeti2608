@@ -4,9 +4,13 @@
 Software Engineering Student | AI Enthusiast | Full Stack Developer | Open Source Learner
 </h3>
 
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+Engineer+in+Progress;Building+AI+Agents;FastAPI+%7C+React+%7C+Java+%7C+Python;Always+Learning+Something+New+🚀" /> -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+Engineer+in+Progress;Building+AI+Agents;FastAPI+%7C+React+%7C+Java+%7C+Python;Always+Learning+Something+New+🚀" />
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+Engineer+in+Progress;Building+AI+Agents;FastAPI+%7C+React+%7C+Java+%7C+Python;Always+Learning+Something+New+🚀" /> -->
+<!-- </p> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;AI+Engineer+in+Progress;Building+AI+Agents;FastAPI+%7C+React+%7C+Java+%7C+Python;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
