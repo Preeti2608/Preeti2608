@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:6E0DD0,70:9D50FF,100:00E5FF&height=230&section=header&text=Preeti%20Mittal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Software%20Engineering%20Student&descAlignY=56&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:6E0DD0,70:9D50FF,100:00E5FF&height=230&section=header&text=Preeti%20Mittal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20•%20AI%20%26%20Full%20Stack%20Developer%20•%20Java%20Enthusiast&descAlignY=56&descSize=18"/>
 </p>
 
 <h3 align="center">
@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=800&color=9D50FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;AI+%26+Agentic+AI+Engineer;Building+with+FastAPI+%E2%80%A2+React+%E2%80%A2+Python;Exploring+LLMs%2C+RAG+%26+Vector+DBs;Always+Shipping%2C+Always+Learning+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=800&color=9D50FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Software+Engineering+Student;Learning+AI%2C+Java+%26+Full+Stack+Development;Building+with+FastAPI+%E2%80%A2+React+%E2%80%A2+Java;Exploring+LLMs%2C+RAG%2C+Cloud+%26+DevOps;Always+Learning+%F0%9F%9A%80"/>
 </p>
 
 <p align="center">
@@ -80,6 +80,7 @@ I love turning ideas into real, working products by combining **AI, backend engi
 ### 🎯 Core Interests
 - 🤖 Artificial Intelligence & Generative AI
 - 🚀 Agentic AI & LLM Applications
+- ☕ Java Backend Development
 - 🔍 Retrieval-Augmented Generation (RAG)
 - ⚡ Backend & Full Stack Development
 - ☁️ Cloud Computing & DevOps
@@ -331,12 +332,15 @@ Department workflow and task management platform designed to simplify academic o
 
 | 🚀 Currently Learning | 📌 Goal |
 |:--|:--|
-| Agentic AI | Build Production-Grade AI Systems |
-| FastAPI | Scalable Backend APIs |
-| Docker | Containerization |
-| AWS | Cloud Deployment |
-| DevOps | CI/CD Pipelines |
-| Kubernetes | Container Orchestration |
+| ☕ Java & DSA | Strong Problem Solving |
+| 🌱 Spring Boot | Java Backend Development |
+| 🤖 AI & Agentic AI | Build Intelligent Applications |
+| ⚡ FastAPI | Scalable Backend APIs |
+| 🌐 React & TypeScript | Modern Frontend Development |
+| 🐳 Docker | Containerization |
+| ☁️ AWS | Cloud Deployment |
+| 🔄 DevOps | CI/CD Pipelines |
+| ☸️ Kubernetes | Container Orchestration |
 
 </div>
 
