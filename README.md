@@ -199,7 +199,7 @@ Production-ready AI assistant with a local-first architecture — intelligent co
 - 💾 Persistent Memory
 - ⚡ Local LLM Support
 
-🔗 Repository — *Coming Soon* &nbsp;|&nbsp; 🌐 Live Demo — *Coming Soon*
+🔗 Repository — [View on GitHub](https://github.com/Preeti2608/Aether.AI) &nbsp;|&nbsp; 🌐 Live Demo — *Coming Soon*
 
 </td>
 <td width="50%" valign="top">
@@ -237,7 +237,7 @@ Personalized AI-powered educational platform generating customized learning road
 - 📖 Skill Recommendations
 - 📈 Weekly Learning Plans
 
-🔗 Repository — *Coming Soon* &nbsp;|&nbsp; 🌐 Live Demo — *Coming Soon*
+🔗 Repository — [View on GitHub](https://github.com/Preeti2608/learnmate) &nbsp;|&nbsp; 🌐 Live Demo — [Try Learnmate](https://learnmate-aa9w.onrender.com)
 
 </td>
 <td width="50%" valign="top">
