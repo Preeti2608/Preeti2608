@@ -360,15 +360,11 @@ Department workflow and task management platform designed to simplify academic o
 <img src="https://raw.githubusercontent.com/Preeti2608/Preeti2608/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
-> ⚠️ Requires a GitHub Action to auto-generate — set up once your README is live.
-
 ## 🌌 3D Contribution Calendar
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Preeti2608/Preeti2608/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
 </div>
-
-> ⚠️ Also auto-generated via GitHub Actions.
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E0DD0,100:00E5FF&height=3"/>
