@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=800&color=9D50FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Software+Engineering+Student;Learning+AI%2C+Java+%26+Full+Stack+Development;Building+with+FastAPI+%E2%80%A2+React+%E2%80%A2+Java;Exploring+LLMs%2C+RAG%2C+Cloud+%26+DevOps;Always+Learning+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=800&color=9D50FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Software+Engineering+Student;Learning+AI%2C+Java+%26+Full+Stack+Development;Building+with+FastAPI+%E2%80%A2+React+%E2%80%A2+Java;Exploring+LLMs%2C+RAG%2C+Cloud+%26+DevOps;Always+Learning+%F0%9F%9A%80"/>
 </p>
 
 <p align="center">
